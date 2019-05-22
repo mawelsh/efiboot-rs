@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FileStore","Implements support for storing and loading EFI variables from a TOML file"],["MemoryStore","Represents an in-memory EFI variable store"]]});
